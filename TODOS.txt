@@ -1,0 +1,10 @@
+pong_bats own class.
+
+ball should be own class
+
+scoreboard + middle line own class. Basically all static text under this.
+
+# TODO: 1. Render screen (screen class)
+# TODO: 2. Create pong_bat class - 1 User controlled and one automatic.
+# TODO: 3. Create ball class - Ball movement and collision with pong_bats/ upper and lower walls.
+# TODO: 4. Create Scoreboard class(maybe screen class?) - keep track of score, ball collision with left and right wall.
